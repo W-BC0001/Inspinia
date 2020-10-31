@@ -1,4 +1,4 @@
-<center>INSPINIA</center>
+<h1 align="center">INSPINIA</h1>
 
 ## 一个非常漂亮的Bootstrap模板 👍 👍 👍
 
